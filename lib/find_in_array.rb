@@ -7,5 +7,5 @@ def find_element_index(array, value_to_find)
     end
     count = count + 1
   end 
-  p find_element_index(v,13)
+  p find_element_index(v,44)
  
